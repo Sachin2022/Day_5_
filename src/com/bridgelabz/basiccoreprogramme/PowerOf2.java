@@ -14,8 +14,6 @@ public class PowerOf2 {
 
 		System.out.println(Math.pow(num, power));
 
-	  }
-
 	}
 
-
+}
